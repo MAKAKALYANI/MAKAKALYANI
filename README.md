@@ -64,18 +64,14 @@
 - 🧠 **Diabetes Prediction System**  
   Machine Learning model using algorithms like XBNet, XGBoost, KNN, LightGBM, and SVM for early-stage diabetes detection using paimaindian dateset.
   
--🧠 Diabetes Prediction realtime model
+- 🧠 **Diabetes Prediction realtime model**
  This project predicts whether a person is diabetic or not using Machine Learning models trained on health data. It allows **real-time input of patient data** through a simple interface and returns instant prediction results.
  
 ---
 
 ## 🚀 Ongoing Projects
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maka-kalyani&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maka-kalyani&layout=compact&theme=tokyonight)
-
+- **Real time daibetic prediction using web app**
+  A web-based diabetes prediction app that takes real-time user input (like glucose, BMI, age) and uses ML models (XBNet, XGBoost, KNN+LightGBM, SVM) to detect diabetes risk. Built with Streamlit using the PIMA Indian Diabetes dataset.
 ---
 
 

@@ -50,28 +50,36 @@
   GSM-based safety alert system for remote or emergency communication in disaster zones.
 
 - 🚿 **Faucet Add-On Using Smart Sensors**  
-  A water-saving system with ultrasonic and flow sensors + relay modules for smart tap control.
+  A water-saving system using ultrasonic and flow sensors, combined with relay modules for smart tap control.
 
 - 🚆 **Railway Disaster Management System**  
-  IR-based obstacle detection for railways with light and buzzer alert functionality to prevent accidents mainly in loops and far places where people not live.
+  IR-based obstacle detection with light and buzzer alerts to help prevent accidents in loops and remote areas.
 
 - 🧹 **Smart Vacuum Cleaner**  
-  Arduino-based robotic vacuum with IR sensor mapping and basic path navigation using BOT.
+  Arduino-based robotic vacuum with IR sensor mapping and basic path navigation using a bot chassis.
 
 - 💧 **Smart Water Bottle**  
-  UV-light purification, hydration reminders, and mobile sync using Bluetooth module.
+  UV-light water purification, hydration reminders, and mobile sync using a Bluetooth module.
 
 - 🧠 **Diabetes Prediction System**  
-  Machine Learning model using algorithms like XBNet, XGBoost, KNN, LightGBM, and SVM for early-stage diabetes detection using paimaindian dateset.
-  
-- 🧠 **Diabetes Prediction realtime model**
- This project predicts whether a person is diabetic or not using Machine Learning models trained on health data. It allows **real-time input of patient data** through a simple interface and returns instant prediction results.
- 
+  A machine learning model using algorithms like XBNet, XGBoost, KNN, LightGBM, and SVM for early-stage diabetes detection using the **PIMA Indian Diabetes dataset**.
+
 ---
 
-## 🚀 Ongoing Projects
-- **Real time daibetic prediction using web app**
-  A web-based diabetes prediction app that takes real-time user input (like glucose, BMI, age) and uses ML models (XBNet, XGBoost, KNN+LightGBM, SVM) to detect diabetes risk. Built with Streamlit using the PIMA Indian Diabetes dataset.
+## 🚧 Ongoing Projects
+
+- 🧪 **Real-Time Diabetic Prediction Using Web App**  
+  A web-based diabetes prediction app that takes real-time user input (like glucose, BMI, age) and uses ML models (XBNet, XGBoost, KNN + LightGBM, and SVM) to detect diabetes risk. Built with **Streamlit** using the **PIMA Indian Diabetes dataset**.
+
 ---
 
+## 🎯 Career Objective
 
+📌 **Actively seeking internship or entry-level opportunities** in **VLSI**, **IoT**, **Robotics**, **Embedded Systems**, or **Machine Learning** domains.
+
+---
+
+## 📈 GitHub Stats
+
+![Kalyani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maka-kalyani&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maka-kalyani&layout=compact&theme=tokyonight)

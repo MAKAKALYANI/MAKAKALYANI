@@ -9,10 +9,10 @@
 
 ## 🛠️ Skills & Tools
 
-### 🧠 Core Skills
+### 🧠 Soft Skills
 - Good Communication  
 - Public Speaking & Anchoring  
-- Problem Solving  
+- Problem Solving
 - Circuit Analysis & Network Analysis
 
 ### 🔤 Programming & Scripting
